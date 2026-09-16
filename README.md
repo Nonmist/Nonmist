@@ -4,7 +4,7 @@
 
 You can find me in these places 😎
 
-[![Mail](https://img.shields.io/badge/Mail-Nonmist-911318?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:Lisa.V-Nonmist@Microsoft.com)
+[![Mail](https://img.shields.io/badge/Mail-Nonmist-911318?style=flat-square&logo=microsoftoutlook&logoColor=0078D4)](mailto:Lisa.V-Nonmist@Microsoft.com)
 [![](https://img.shields.io/badge/Discord/Nonmist-6666FF?style=flat-square&logo=Discord&logoColor=0066FF)](https://discord.com/channels/@me/814091528984461323)
 
 # Overall Rating😉
