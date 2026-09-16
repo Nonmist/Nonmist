@@ -8,7 +8,7 @@ You can find me in these places 😎
 [![](https://img.shields.io/badge/Discord/Matte4773-6666FF?style=flat-square&logo=Discord&logoColor=0066FF)](https://discord.com/channels/@me/814091528984461323)
 
 # Overall Rating😉
-[![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Matte4773's GitHub stats](https://github-stats-extended.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/stats-organization/github-stats-extended)
 
 # 😊My technology stack:
 [![](https://img.shields.io/badge/Windows-11-66b2ff?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
